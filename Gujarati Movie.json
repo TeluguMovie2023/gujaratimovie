@@ -268,11 +268,18 @@
 			"Movieimg": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-250,h-390/et00048670-grjltrmgrw-portrait.jpg"
 		},
 		{
-			"id": 38,
+			"id": 39,
 			"Video_Id": "bP7FLEOTvnY",
 			"Movie_name": "Tari Sathe",
 			"Description": "Two youngsters at the right age to get married must decide what's important. The girl wants security and stability, while the boy hopes for love and affection.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BM2U4Mzk5YTAtZmRiOS00N2M5LThmMzEtZGIzNDM3OWI0OGEwXkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_.jpg"
+		},
+		{
+			"id": 40,
+			"Video_Id": "wcpkbwt-yWc",
+			"Movie_name": "Dear Father",
+			"Description": "After a man falls from his balcony, a police investigation focuses on the man's son and daughter-in-law.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZDFjNGU0ODMtZmI5Ni00NzMzLTkxYjgtOGU1NmM4MDlkOTQ0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
 		}
 	],
 	"MovieSlider":[
