@@ -278,53 +278,53 @@
 	"MovieSlider":[
 		{
 			"id": 1,
-			"Video_Id": "lUOFkevDXrg",
+			"Video_Id": "5-lMOnKjZTI",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Fulwaa",
-			"Movieimg":"https://i.ytimg.com/vi/lUOFkevDXrg/maxresdefault.jpg",
+			"Movie_name": "Var Padharavo Saavdhan",
+			"Movieimg":"https://i.ytimg.com/vi/5-lMOnKjZTI/maxresdefault.jpg",
             "Description": "",
-            "Language": "Bhojpuri"
+            "Language": "Gujarati"
 		},
 		{
 			"id": 2,
-			"Video_Id": "75dXTAvC74M",
+			"Video_Id": "6G2-Qn6xPmo",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "SON OF BIHAR",
-			"Movieimg":"https://i.ytimg.com/vi/75dXTAvC74M/maxresdefault.jpg",
+			"Movie_name": "Char Fera Nu Chakdol",
+			"Movieimg":"https://i.ytimg.com/vi/6G2-Qn6xPmo/maxresdefault.jpg",
             "Description": "",
-            "Language": "Bhojpuri"
+            "Language": "Gujarati"
 		},
 		{
 			"id": 3,
-			"Video_Id": "y5REmTnaJZU",
+			"Video_Id": "hHyeK3Cu6ag",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "KALAKAND",
-			"Movieimg":"https://i.ytimg.com/vi/y5REmTnaJZU/maxresdefault.jpg",
+			"Movie_name": "Gulaam Chor",
+			"Movieimg":"https://i.ytimg.com/vi/hHyeK3Cu6ag/maxresdefault.jpg",
             "Description": "",
-            "Language": "Bhojpuri"
+            "Language": "Gujarati"
 		},
 		{
 			"id": 4,
-			"Video_Id": "xyq3TQij5YU",
+			"Video_Id": "nPUmI-MV0aQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Rok Sake To Rok Lo",
-			"Movieimg":"https://i.ytimg.com/vi/xyq3TQij5YU/maxresdefault.jpg",
+			"Movie_name": "Anokhee",
+			"Movieimg":"https://i.ytimg.com/vi/nPUmI-MV0aQ/maxresdefault.jpg",
             "Description": "",
-            "Language": "Bhojpuri"
-		},
+            "Language": "Gujarati"
+		},		
 		{
 			"id": 5,
-			"Video_Id": "iryeXIaPduI",
+			"Video_Id": "x2A7qmuaE5s",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "BEWAFA SANAM",
-			"Movieimg":"https://i.ytimg.com/vi/iryeXIaPduI/maxresdefault.jpg",
+			"Movie_name": "FULEKU",
+			"Movieimg":"https://i.ytimg.com/vi/x2A7qmuaE5s/maxresdefault.jpg",
             "Description": "",
-            "Language": "Bhojpuri"
+            "Language": "Gujarati"
 		}
 	]
   }
