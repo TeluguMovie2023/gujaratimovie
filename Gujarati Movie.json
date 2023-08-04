@@ -285,6 +285,16 @@
 	"MovieSlider":[
 		{
 			"id": 1,
+			"Video_Id": "qcMyNrE__RM",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "3 Ekka",
+			"Movieimg":"https://i.ytimg.com/vi/qcMyNrE__RM/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 2,
 			"Video_Id": "_FgoHstyluk",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -294,7 +304,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 2,
+			"id": 3,
 			"Video_Id": "5-lMOnKjZTI",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -304,7 +314,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 3,
+			"id": 4,
 			"Video_Id": "6G2-Qn6xPmo",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -314,7 +324,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 4,
+			"id": 5,
 			"Video_Id": "-yuSHaSGy1I",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -324,7 +334,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 5,
+			"id": 6,
 			"Video_Id": "hHyeK3Cu6ag",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -334,7 +344,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 6,
+			"id": 7,
 			"Video_Id": "nPUmI-MV0aQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -344,7 +354,7 @@
             "Language": "Gujarati"
 		},		
 		{
-			"id": 7,
+			"id": 8,
 			"Video_Id": "x2A7qmuaE5s",
 			"qurekaimg":"",
 			"qurekaimg2":"",
